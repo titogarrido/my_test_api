@@ -4,8 +4,8 @@
     { "id": 2, "user": 2, "username": "katarynaolimpio", "components": ["profile", "tabs"] }
   ],
   "profile": [
-    { "id": 1, "name": "Tito Garrido", "speciality": "Analista de Sistema", "description": "Sou Bacharel em Ciência da Computação pela Universidade Federal da Bahia." },
-    { "id": 2, "name": "Kataryna Olimpio", "speciality": "Biomédica", "description": "Sou Mestre pelo Instituto de Farmacologia e Biologia Molecular da Universidade Federal de São Paulo e Especialista em Biomedicina Estética pelo Instituto Brasileiro Eletroterapia e Cosmetologia (Ibeco). Possuo conhecimento nas áreas de imunologia, microbiologia, biologia molecular e procedimentos estéticos avançados." }
+    { "id": 1, "name": "Tito Garrido", "speciality": "Analista de Sistema", "description": "Sou Bacharel em Ciência da Computação pela Universidade Federal da Bahia.", "more_info": "Cloud Solutions" },
+    { "id": 2, "name": "Kataryna Olimpio", "speciality": "Biomédica", "description": "Sou Mestre pelo Instituto de Farmacologia e Biologia Molecular da Universidade Federal de São Paulo e Especialista em Biomedicina Estética pelo Instituto Brasileiro Eletroterapia e Cosmetologia (Ibeco). Possuo conhecimento nas áreas de imunologia, microbiologia, biologia molecular e procedimentos estéticos avançados.", "more_info": "CRBM XXXX" }
   ],
   "user": {
     "id" : 1,
