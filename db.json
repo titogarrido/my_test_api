@@ -1,11 +1,11 @@
 {
   "configs": [
-    { "id": 1, "user": 1, "username": "katarynaolimpio", "components": ["profile", "contact"] },
-    { "id": 2, "user": 2, "username": "user2", "components": ["profile", "tabs"] }
+    { "id": 1, "user": 1, "username": "titogarrido", "components": ["profile", "contact"] },
+    { "id": 2, "user": 2, "username": "katarynaolimpio", "components": ["profile", "tabs"] }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "profile": [
+    { "id": 1, "name": "Tito Garrido", "especialidade": 'Analista de Sistema', "descrição": "Sou Bacharel em Ciência da Computação pela Universidade Federal da Bahia." },
+    { "id": 2, "name": "Kataryna Olimpio", "especialidade": 'Biomédica', "descrição": "Sou Mestre pelo Instituto de Farmacologia e Biologia Molecular da Universidade Federal de São Paulo e Especialista em Biomedicina Estética pelo Instituto Brasileiro Eletroterapia e Cosmetologia (Ibeco). Possuo conhecimento nas áreas de imunologia, microbiologia, biologia molecular e procedimentos estéticos avançados." }
   ],
   "user": {
     "id" : 1,
