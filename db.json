@@ -10,8 +10,7 @@
   "contact": [
     { "id": 1, "user": 1, "instagram": "titogo_", "whatsapp": "1199999999", "facebook": "titogarrido", "address": "Rua Estero Belaco, 222" },
     { "id": 2, "user": 2, "instagram": "kataryna.estetica", "whatsapp": "1199999999", "facebook": "kataryna.estetica", "address": "Rua Estero Belaco, 111" }
-    ]
-  },
+  ],
   "user": {
     "id" : 1,
     "name" : "Tito Garrido"
