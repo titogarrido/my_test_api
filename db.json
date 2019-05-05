@@ -1,7 +1,7 @@
 {
   "configs": [
     { "id": 1, "user": 1, "components": ["profile", "contact"] },
-    { "id": 2, "user": 2, "components": ["profile", "contact"] }
+    { "id": 2, "user": 2, "components": ["profile", "tabs"] }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
