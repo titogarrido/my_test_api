@@ -12,7 +12,7 @@
     { "id": 2, "user": "2", "instagram": "kataryna.estetica", "whatsapp": "1199999999", "facebook": "kataryna.estetica", "address": "Rua Estero Belaco, 111" }
   ],
   "instagram": [
-    { "id:" "1", "instagram": "titogo_" },
+    { "id": "1", "instagram": "titogo_" },
     { "id": "2", "instagram": "kataryna.estetica" }
     ],
   "user": {
