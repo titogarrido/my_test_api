@@ -1,7 +1,7 @@
 {
   "configs": [
-    { "id": 1, "user": 1, "username": "titogarrido", "components": ["profile", "contact"] },
-    { "id": 2, "user": 2, "username": "katarynaolimpio", "components": ["profile", "tabs"] }
+    { "id": 1, "user": 1, "username": "titogarrido", "components": ["profile", "instagram", "contact"] },
+    { "id": 2, "user": 2, "username": "katarynaolimpio", "components": ["profile", "instagram", "tabs"] }
   ],
   "profile": [
     { "id": 1, "username": "titogarrido", "name": "Tito Garrido", "name": "Tito Garrido", "speciality": "Analista de Sistema", "description": "Sou Bacharel em Ciência da Computação pela Universidade Federal da Bahia.", "more_info": "Cloud Solutions" },
