@@ -8,7 +8,7 @@
     { "id": 2, "username": "katarynaolimpio", "name": "Kataryna Olimpio", "name": "Kataryna Olimpio", "speciality": "Biomédica", "description": "Sou Mestre pelo Instituto de Farmacologia e Biologia Molecular da Universidade Federal de São Paulo e Especialista em Biomedicina Estética pelo Instituto Brasileiro Eletroterapia e Cosmetologia (Ibeco). Possuo conhecimento nas áreas de imunologia, microbiologia, biologia molecular e procedimentos estéticos avançados.", "more_info": "CRBM XXXX" }
   ],
   "contact": [
-    { "id": 1, "username": "titogarrido", "name": "Tito Garrido", "instagram": "", "whatsapp": "1199999999", "facebook": "", "address": "Rua Estero Belaco, 222" },
+    { "id": 1, "username": "titogarrido", "name": "Tito Garrido", "instagram": "titogo_", "whatsapp": "1199999999", "facebook": "", "address": "Rua Estero Belaco, 222" },
     { "id": 2, "username": "katarynaolimpio", "name": "Kataryna Olimpio", "instagram": "kataryna.estetica", "whatsapp": "1199999999", "facebook": "kataryna.estetica", "address": "Rua Estero Belaco, 111" }
   ],
   "user": {
