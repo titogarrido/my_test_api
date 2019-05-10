@@ -1,8 +1,8 @@
 {
   "titogarrido" : {
     "config": {"components": ["profile", "instagram", "contact"]},
-    "profile": {"name": "Tito Garrido", "name": "Tito Garrido", "speciality": "Analista de Sistema", "description": "Sou Bacharel em Ciência da Computação pela Universidade Federal da Bahia.", "more_info": "Cloud Solutions"},
+    "profile": {"name": "Tito Garrido", "speciality": "Analista de Sistema", "description": "Sou Bacharel em Ciência da Computação pela Universidade Federal da Bahia.", "more_info": "Cloud Solutions"},
     "contact": {"title": "Contato", "description": "Entre em contato!", "instagram": "titogo_", "whatsapp": "1199999999", "facebook": "", "address": "Rua Estero Belaco, 222"},
-    "instagram": {"title": "Instagram", "description": "Siga!", "instagram": "titogo_" },
-  },
+    "instagram": {"title": "Instagram", "description": "Siga!", "instagram": "titogo_" }
+  }
 }
